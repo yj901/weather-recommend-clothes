@@ -1,0 +1,210 @@
+[
+  {
+    "range": "~5",
+    "min": -50,
+    "max": 5,
+    "description": "패딩, 두꺼운 코트, 목도리, 기모 제품",
+    "items": [
+      {
+        "name": "패딩",
+        "img": "/imgs/clothes/padding.png"
+      },
+      {
+        "name": "롱패딩",
+        "img": "/imgs/clothes/long_padding.png"
+      },
+      {
+        "name": "귀마개",
+        "img": "/imgs/clothes/earmuff.png"
+      },
+      {
+        "name": "목도리",
+        "img": "/imgs/clothes/scarf.png"
+      },
+      {
+        "name": "기모 후드",
+        "img": "/imgs/clothes/fleece_hoodie.png"
+      },
+      {
+        "name": "기모 팬츠",
+        "img": "/imgs/clothes/fleece_pants.png"
+      }
+    ]
+  },
+  {
+    "range": "6~9",
+    "min": 6,
+    "max": 9,
+    "description": "재킷, 트렌치코트, 야상, 니트, 스타킹, 청바지",
+    "items": [
+      {
+        "name": "트렌치코트",
+        "img": "/imgs/clothes/trench_coat.png"
+      },
+      {
+        "name": "재킷",
+        "img": "/imgs/clothes/jacket.png"
+      },
+      {
+        "name": "니트",
+        "img": "/imgs/clothes/knit.png"
+      },
+      {
+        "name": "스타킹",
+        "img": "/imgs/clothes/stockings.png"
+      },
+      {
+        "name": "청바지",
+        "img": "/imgs/clothes/jeans.png"
+      }
+    ]
+  },
+  {
+    "range": "10~12",
+    "min": 10,
+    "max": 12,
+    "description": "재킷, 가디건, 야상, 맨투맨, 니트, 청바지, 면바지",
+    "items": [
+      {
+        "name": "재킷",
+        "img": "/imgs/clothes/jacket.png"
+      },
+      {
+        "name": "가디건",
+        "img": "/imgs/clothes/cardigan.png"
+      },
+      {
+        "name": "맨투맨",
+        "img": "/imgs/clothes/sweatshirt.png"
+      },
+      {
+        "name": "니트",
+        "img": "/imgs/clothes/knit.png"
+      },
+      {
+        "name": "청바지",
+        "img": "/imgs/clothes/jeans.png"
+      },
+      {
+        "name": "면바지",
+        "img": "/imgs/clothes/cotton_pants.png"
+      }
+    ]
+  },
+  {
+    "range": "13~16",
+    "min": 13,
+    "max": 16,
+    "description": "얇은 니트, 가디건, 맨투맨, 면바지",
+    "items": [
+      {
+        "name": "얇은 니트",
+        "img": "/imgs/clothes/light_knit.png"
+      },
+      {
+        "name": "얇은 가디건",
+        "img": "/imgs/clothes/light_cardigan.png"
+      },
+      {
+        "name": "맨투맨",
+        "img": "/imgs/clothes/sweatshirt.png"
+      },
+      {
+        "name": "면바지",
+        "img": "/imgs/clothes/cotton_pants.png"
+      }
+    ]
+  },
+  {
+    "range": "17~19",
+    "min": 17,
+    "max": 19,
+    "description": "얇은 가디건, 긴팔티, 면바지, 청바지",
+    "items": [
+      {
+        "name": "얇은 가디건",
+        "img": "/imgs/clothes/light_cardigan.png"
+      },
+      {
+        "name": "긴팔 티셔츠",
+        "img": "/imgs/clothes/longsleeve.png"
+      },
+      {
+        "name": "청바지",
+        "img": "/imgs/clothes/jeans.png"
+      },
+      {
+        "name": "면바지",
+        "img": "/imgs/clothes/cotton_pants.png"
+      }
+    ]
+  },
+  {
+    "range": "20~22",
+    "min": 20,
+    "max": 22,
+    "description": "반팔, 얇은 셔츠, 반바지, 면바지",
+    "items": [
+      {
+        "name": "반팔",
+        "img": "/imgs/clothes/tshirt.png"
+      },
+      {
+        "name": "얇은 셔츠",
+        "img": "/imgs/clothes/light_shirt.png"
+      },
+      {
+        "name": "반바지",
+        "img": "/imgs/clothes/shorts.png"
+      },
+      {
+        "name": "면바지",
+        "img": "/imgs/clothes/cotton_pants.png"
+      }
+    ]
+  },
+  {
+    "range": "23~27",
+    "min": 23,
+    "max": 27,
+    "description": "민소매, 반팔, 반바지, 치마",
+    "items": [
+      {
+        "name": "민소매",
+        "img": "/imgs/clothes/sleeveless.png"
+      },
+      {
+        "name": "반팔",
+        "img": "/imgs/clothes/tshirt.png"
+      },
+      {
+        "name": "반바지",
+        "img": "/imgs/clothes/shorts.png"
+      },
+      {
+        "name": "치마",
+        "img": "/imgs/clothes/skirt.png"
+      }
+    ]
+  },
+  {
+    "range": "28~",
+    "min": 28,
+    "max": 50,
+    "description": "민소매, 반바지, 얇은 원피스",
+    "items": [
+      {
+        "name": "민소매",
+        "img": "/imgs/clothes/sleeveless.png"
+      },
+      {
+        "name": "반바지",
+        "img": "/imgs/clothes/shorts.png"
+      },
+      {
+        "name": "얇은 원피스",
+        "img": "/imgs/clothes/dress.png"
+      }
+    ]
+  }
+]
