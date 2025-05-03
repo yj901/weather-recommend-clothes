@@ -60,3 +60,26 @@ body {
   backdrop-filter: blur(35px);
   color: #fff;
 }
+.sm-glass-box {
+  box-shadow: none;
+  backdrop-filter: none;
+  color: none;
+}
+.glass-box-not {
+  box-shadow: 0px 0px 6px 0px rgba(255, 255, 255, 0.65) inset;
+  backdrop-filter: blur(35px);
+  color: #fff;
+}
+
+@media screen and (min-width: 640px) {
+  .sm-glass-box {
+    box-shadow: 0px 0px 6px 0px rgba(255, 255, 255, 0.65) inset;
+    backdrop-filter: blur(35px);
+    color: #fff;
+  }
+  .glass-box-not {
+    box-shadow: none;
+    backdrop-filter: none;
+    color: none;
+  }
+}
